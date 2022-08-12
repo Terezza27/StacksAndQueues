@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\StacksAndQueues\T04.MatchingBrackets\bin\Debug\netcoreapp3.1\T04.MatchingBrackets.exe
+C:\Users\user\source\repos\StacksAndQueues\T04.MatchingBrackets\bin\Debug\netcoreapp3.1\T04.MatchingBrackets.deps.json
+C:\Users\user\source\repos\StacksAndQueues\T04.MatchingBrackets\bin\Debug\netcoreapp3.1\T04.MatchingBrackets.runtimeconfig.json
+C:\Users\user\source\repos\StacksAndQueues\T04.MatchingBrackets\bin\Debug\netcoreapp3.1\T04.MatchingBrackets.runtimeconfig.dev.json
+C:\Users\user\source\repos\StacksAndQueues\T04.MatchingBrackets\bin\Debug\netcoreapp3.1\T04.MatchingBrackets.dll
+C:\Users\user\source\repos\StacksAndQueues\T04.MatchingBrackets\bin\Debug\netcoreapp3.1\T04.MatchingBrackets.pdb
+C:\Users\user\source\repos\StacksAndQueues\T04.MatchingBrackets\obj\Debug\netcoreapp3.1\T04.MatchingBrackets.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StacksAndQueues\T04.MatchingBrackets\obj\Debug\netcoreapp3.1\T04.MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StacksAndQueues\T04.MatchingBrackets\obj\Debug\netcoreapp3.1\T04.MatchingBrackets.AssemblyInfo.cs
+C:\Users\user\source\repos\StacksAndQueues\T04.MatchingBrackets\obj\Debug\netcoreapp3.1\T04.MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StacksAndQueues\T04.MatchingBrackets\obj\Debug\netcoreapp3.1\T04.MatchingBrackets.dll
+C:\Users\user\source\repos\StacksAndQueues\T04.MatchingBrackets\obj\Debug\netcoreapp3.1\T04.MatchingBrackets.pdb
+C:\Users\user\source\repos\StacksAndQueues\T04.MatchingBrackets\obj\Debug\netcoreapp3.1\T04.MatchingBrackets.genruntimeconfig.cache
